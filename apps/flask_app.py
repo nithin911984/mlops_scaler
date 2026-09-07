@@ -40,4 +40,18 @@ def predict():
     })
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(host="0.0.0.0", port=5000)
+=======
+    app.run(host="0.0.0.0", port=5000)
+
+
+
+
+# {
+#     "km_driven": 45000,
+#     "mileage": 18,
+#     "age": 5,
+#     "fuel_type": "Petrol"
+# }
+>>>>>>> a15694a9f1680cfc41f3fa573beb8025217ce988
