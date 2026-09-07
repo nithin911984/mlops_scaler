@@ -1,0 +1,15 @@
+# Core data / ML
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Streamlit apps
+streamlit
+
+# Market data (streamlit_apps/finance_app.py, notebooks/finance_example.ipynb)
+yfinance
+
+# Notebook kernel
+ipykernel
+flask
