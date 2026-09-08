@@ -12,8 +12,4 @@ yfinance
 
 # Notebook kernel
 ipykernel
-<<<<<<< HEAD
 flask
-=======
-flask
->>>>>>> a15694a9f1680cfc41f3fa573beb8025217ce988
