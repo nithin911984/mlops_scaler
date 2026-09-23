@@ -1,0 +1,25 @@
+artifact_path: file:c:/Users/dell/mlops_scaler/model_tracking/mlruns/1/models/m-2b22b2adb0234a5a8ada47f9c2c0c5ed/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types:
+    - xgboost.core.Booster
+    - xgboost.sklearn.XGBRegressor
+mlflow_version: 3.16.1
+model_id: m-2b22b2adb0234a5a8ada47f9c2c0c5ed
+model_size_bytes: 425271
+model_uuid: m-2b22b2adb0234a5a8ada47f9c2c0c5ed
+prompts: null
+run_id: c5e08fc6aa254565afae7ae48ba6c411
+utc_time_created: '2026-09-23 18:02:10.418745'
